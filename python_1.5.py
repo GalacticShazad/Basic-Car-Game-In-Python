@@ -1,3 +1,5 @@
+#Coding By Galactic Shazad
+
 command=""
 started = False
 
